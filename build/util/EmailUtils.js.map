@@ -1,0 +1,1 @@
+{"version":3,"file":"EmailUtils.js","sourceRoot":"","sources":["../../src/util/EmailUtils.ts"],"names":[],"mappings":";;AAAA,uCAAyC;AAE3B,QAAA,WAAW,GAAG,UAAU,CAAC,eAAe,CAAC;IACnD,IAAI,EAAE,gBAAgB;IACtB,IAAI,EAAE,GAAG;IACT,MAAM,EAAE,KAAK;IACb,IAAI,EAAE;QACF,IAAI,EAAE,wBAAwB;QAC9B,IAAI,EAAE,kBAAkB;KAC3B;CACJ,CAAC,CAAC"}

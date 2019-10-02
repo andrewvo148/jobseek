@@ -1,0 +1,8 @@
+{"errno":-5,"syscall":"write","code":"EIO","level":"error"}
+{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":5432,"level":"error"}
+{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":5432,"level":"error"}
+{"level":"error"}
+{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":5432,"level":"error"}
+{"level":"error"}
+{"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":5432,"level":"error"}
+{"message":"column \"slug\" contains null values","name":"QueryFailedError","length":120,"severity":"ERROR","code":"23502","schema":"public","table":"company","column":"slug","file":"tablecmds.c","line":"4836","routine":"ATRewriteTable","query":"ALTER TABLE \"company\" ADD \"slug\" character varying NOT NULL","parameters":[],"level":"error"}
